@@ -1,8 +1,8 @@
 {
     "contact_email": "info@fastchannels.tv",
     "contact_address": "SotalCloud, Inc dba FAST Channels TV, 120 Eglinton Ave East, Suite 800, Toronto, ON, Canada  M4P 1E2",
-    "Updated": "May24, 2024",
-    "version": 1.6,
+    "Updated": "Oct24, 2024",
+    "version": 1.7,
     "identifiers": [
         {
             "name": "DUNS",
@@ -10,24 +10,6 @@
         }
     ],
     "sellers": [
-        {
-            "seller_id": "45001",
-            "name": "LawNewz, Inc",
-            "seller_type": "PUBLISHER",
-            "domain": "lawandcrime.com"
-        },
-        {
-            "seller_id": "45002",
-            "name": "WPT Enterprises, Inc.",
-            "seller_type": "PUBLISHER",
-            "domain": "worldpokertour.tv"
-        },
-        {
-            "seller_id": "45003",
-            "name": "Comedy App Ltd.",
-            "seller_type": "PUBLISHER",
-            "domain": "twistedmirror.tv"
-        },
         {
             "seller_id": "45004",
             "name": "Tricoast Media",
@@ -50,12 +32,6 @@
             "seller_id": "45007",
             "name": "DarkMatter TV",
             "domain": "darkmattertv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45008",
-            "name": "NewsNet",
-            "domain": "yournewsnet.com/",
             "seller_type": "PUBLISHER"
         },
         {
@@ -84,8 +60,8 @@
         },
         {
             "seller_id": "45013",
-            "name": "FreeCast",
-            "domain": "freecast.com",
+            "name": "freecast",
+            "domain": "watch.freecast.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -95,63 +71,15 @@
             "seller_type": "INTERMEDIARY"
         },
         {
-            "seller_id": "45015",
-            "name": "VIDAA",
-            "domain": "vidaa.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45016",
-            "name": "Euronews SA",
-            "domain": "euronews.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45017",
-            "name": "Public Media Distribution, LLC",
-            "domain": "pbsdistribution.org",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45018",
-            "name": "HERRING NETWORKS, INC.",
-            "domain": "oan.plus",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45019",
-            "name": "HERRING NETWORKS INC.",
-            "domain": "awe.plus",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45020",
             "name": "OTT Studio LLC",
             "domain": "ott.studio",
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45021",
-            "name": "9x Media",
-            "domain": "9xmedia.in",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45022",
-            "name": "Africa 24",
-            "domain": "a24media.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45023",
             "name": "Aforevo TV",
             "domain": "aforevo.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45024",
-            "name": "African Movie Channel",
-            "domain": "africanmoviechannel.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -167,33 +95,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45027",
-            "name": "Metro Film Festival",
-            "domain": "metrofilmfestival.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45028",
-            "name": "AVO TV",
-            "domain": "watch.avo.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45029",
-            "name": "ayozat",
-            "domain": "ayozat.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45030",
             "name": "X2DTV",
             "domain": "x2dtv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45031",
-            "name": "batteryPOP",
-            "domain": "batterypop.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -209,12 +113,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45034",
-            "name": "Binge Network",
-            "domain": "bingechannels.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45035",
             "name": "BizTV",
             "domain": "biztv.com",
@@ -227,39 +125,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45037",
-            "name": "bspoke",
-            "domain": "bspoketv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45038",
-            "name": "Burst Network",
-            "domain": "burst.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45039",
-            "name": "BVIRAL",
-            "domain": "bviral.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45040",
-            "name": "CloverApps",
-            "domain": "cloverapps.online",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45041",
             "name": "Content Box",
             "domain": "digitaltvgroup.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45042",
-            "name": "7NN",
-            "domain": "7nn.tv",
             "seller_type": "PUBLISHER"
         },
         {
@@ -269,39 +137,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45044",
-            "name": "Didja",
-            "domain": "didjatv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45045",
-            "name": "Digital Tree Media LTD",
-            "domain": "digitaltree.com.cy",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45046",
-            "name": "Digitrax Entertainment",
-            "domain": "digitraxmail.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45047",
             "name": "Watch Dingo",
             "domain": "watchdingo.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45048",
-            "name": "E-Chef TV USA",
-            "domain": "echef4u.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45049",
-            "name": "eBaba TV",
-            "domain": "ebabatv.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -324,7 +162,7 @@
         },
         {
             "seller_id": "45053",
-            "name": "Epic Video Technologies",
+            "name": "epicvideo",
             "domain": "epicvideo.tech",
             "seller_type": "PUBLISHER"
         },
@@ -348,14 +186,8 @@
         },
         {
             "seller_id": "45057",
-            "name": "Freebie TV",
+            "name": "freebie",
             "domain": "freebie.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45058",
-            "name": "Frudy Media",
-            "domain": "frudy.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -372,14 +204,8 @@
         },
         {
             "seller_id": "45061",
-            "name": "Glorystar",
+            "name": "glorystar",
             "domain": "glorystar.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45062",
-            "name": "Goodtimes TV",
-            "domain": "omygoodtimes.in",
             "seller_type": "PUBLISHER"
         },
         {
@@ -389,45 +215,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45064",
-            "name": "Hare Krsna",
-            "domain": "harekrsnatv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45065",
-            "name": "HeroGoTV",
-            "domain": "herogotv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45066",
-            "name": "Infomir GmbH",
-            "domain": "infomir.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45067",
-            "name": "Jam In The Van",
-            "domain": "jaminthevan.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45068",
             "name": "IPTV SOLUTIONS GROUP, LLC",
             "domain": "iptvsolutionsgroup.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45069",
-            "name": "Iron Dragon",
-            "domain": "idtvflix.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45070",
-            "name": "Lamhas",
-            "domain": "lamhas.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -437,39 +227,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45072",
-            "name": "Limex Broadcast Systems",
-            "domain": "limexltd.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45073",
             "name": "Local Now",
             "domain": "localnow.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45074",
-            "name": "Mask Consultants",
-            "domain": "maskconsultant.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45075",
-            "name": "MedicosTV",
-            "domain": "medicostv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45076",
-            "name": "Megogo",
-            "domain": "megogo.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45077",
-            "name": "Metaxsoft",
-            "domain": "metaxsoft.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -479,45 +239,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45079",
-            "name": "Mitzfitz of Media Inc.",
-            "domain": "mitzfitzofmedia.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45080",
-            "name": "ARC Broadcasting",
-            "domain": "arctvafrica.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45081",
-            "name": "mometu",
-            "domain": "mometu.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45082",
             "name": "muxIP",
             "domain": "muxip.com",
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45083",
-            "name": "MYLO TV",
-            "domain": "mylotv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45084",
             "name": "nomadslow",
             "domain": "nomadslow.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45085",
-            "name": "Navroz Media Network",
-            "domain": "ntvhouston.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -533,21 +263,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45088",
-            "name": "onehubtv",
-            "domain": "onehubtv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45089",
             "name": "Passion River Films",
             "domain": "passionriver.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45090",
-            "name": "PeekFlick",
-            "domain": "peekflick.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -557,45 +275,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45092",
-            "name": "Questar",
-            "domain": "questarentertainment.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45093",
-            "name": "QVC",
-            "domain": "qvc.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45094",
-            "name": "Rad",
-            "domain": "rad.live",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45095",
             "name": "Radiant Technologies",
             "domain": "radianttechnologies.io",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45096",
-            "name": "Relax TV",
-            "domain": "relax-tv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45097",
-            "name": "Resettech",
-            "domain": "resettech.in",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45098",
-            "name": "Right Now TV",
-            "domain": "rightnowtv.net",
             "seller_type": "PUBLISHER"
         },
         {
@@ -612,7 +294,7 @@
         },
         {
             "seller_id": "45101",
-            "name": "Segi TV",
+            "name": "segi",
             "domain": "segi.tv",
             "seller_type": "PUBLISHER"
         },
@@ -623,39 +305,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45103",
-            "name": "Shop LC",
-            "domain": "shoplc.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45104",
             "name": "Skitter",
             "domain": "skitter.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45105",
-            "name": "sportlocker",
-            "domain": "sportlocker.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45106",
-            "name": "SRIBAHUBALI MEDIA PVT LTD",
-            "domain": "omtvlive.in",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45107",
-            "name": "Stream Go Media",
-            "domain": "streamgomedia.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45108",
-            "name": "ONTV",
-            "domain": "myontv.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -683,99 +335,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45113",
-            "name": "The Country Network",
-            "domain": "tcntoday.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45114",
-            "name": "The Grio",
-            "domain": "thegrio.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45115",
-            "name": "The Media Sense",
-            "domain": "themediasense.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45116",
-            "name": "Self Made TV",
-            "domain": "selfmadetv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45117",
-            "name": "toonzanimation",
-            "domain": "toonzanimationindia.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45118",
             "name": "TrueAmerican",
             "domain": "trueamericanbusiness.com",
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45119",
-            "name": "UBIQ",
-            "domain": "ubiqbc.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45120",
-            "name": "UiTV Media Inc.",
-            "domain": "uitv.us",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45121",
-            "name": "UMAXX",
-            "domain": "umaxx.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45122",
-            "name": "Veuit Dotcom LLC",
-            "domain": "veuit.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45123",
-            "name": "Virtual Media",
-            "domain": "virtualmediang.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45124",
-            "name": "Vision247",
-            "domain": "vision247.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45125",
-            "name": "Visiotel",
-            "domain": "visiotel.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45126",
-            "name": "Viva Entertainment Group",
-            "domain": "vivalivetv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45127",
             "name": "VTVeee",
             "domain": "vtveee.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45128",
-            "name": "Wai Lana",
-            "domain": "wailana.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -798,38 +366,14 @@
         },
         {
             "seller_id": "45132",
-            "name": "ISGTV",
+            "name": "isgtv",
             "domain": "isgtv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45133",
-            "name": "Apple Pie Films",
-            "domain": "metrofilmfestival.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45134",
-            "name": "The Killer Movie Channel",
-            "domain": "thekillermoviechannel.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45135",
-            "name": "kapang",
-            "domain": "kapang.com",
             "seller_type": "PUBLISHER"
         },
         {
             "seller_id": "45136",
             "name": "staccs",
             "domain": "staccstv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45137",
-            "name": "tinykernel",
-            "domain": "tinykernel.net",
             "seller_type": "PUBLISHER"
         },
         {
@@ -845,39 +389,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "45140",
-            "name": "grovestreet",
-            "domain": "grovestreet.fm",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "45141",
             "name": "fawesome",
             "domain": "fawesome.tv",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45142",
-            "name": "seachange",
-            "domain": "seachange.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45143",
-            "name": "otune",
-            "domain": "otune.co",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45144",
-            "name": "kbletv",
-            "domain": "kbletv.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45145",
-            "name": "earntv",
-            "domain": "earntv.io",
             "seller_type": "PUBLISHER"
         },
         {
@@ -902,12 +416,6 @@
             "seller_id": "45149",
             "name": "monytize",
             "domain": "monytize.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45150",
-            "name": "brightflixx",
-            "domain": "brightflixx.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -936,20 +444,14 @@
         },
         {
             "seller_id": "45155",
-            "name": "talkietv",
-            "domain": "talkietv.com",
+            "name": "watchie",
+            "domain": "watchie.tv",
             "seller_type": "PUBLISHER"
         },
         {
             "seller_id": "45156",
             "name": "caribcast",
             "domain": "caribcast.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "45157",
-            "name": "generationblack",
-            "domain": "generationblack.tv",
             "seller_type": "PUBLISHER"
         },
         {
@@ -962,6 +464,54 @@
             "seller_id": "45159",
             "name": "slappintv",
             "domain": "slappintv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45160",
+            "name": "rewardedtv",
+            "domain": "watch.rewarded.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45161",
+            "name": "talkietv",
+            "domain": "talkietv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45162",
+            "name": "spanglishmovies",
+            "domain": "spanglishmovies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45163",
+            "name": "floutv",
+            "domain": "floutv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45164",
+            "name": "tevefy",
+            "domain": "tevefy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45165",
+            "name": "tackendo",
+            "domain": "tackendo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45166",
+            "name": "distro",
+            "domain": "distro.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45167",
+            "name": "imperialtv",
+            "domain": "imperialtv.com",
             "seller_type": "PUBLISHER"
         }
     ]
