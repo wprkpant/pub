@@ -1,3 +1,5 @@
+ads txt for FASTchannels - Dec 3
+
 # ATG-IYXFO5MRS2MC1DCQ
 # Version 0.3.16
 OWNERDOMAIN=fastchannels.tv
@@ -604,8 +606,10 @@ pubmatic.com, 163009, DIRECT, 5d62403b186f2ace
 smartadserver.com, 4452, DIRECT, 060d053dcf45cbf3
 # MonetizeGo
 conversantmedia.com, 100807, RESELLER, 03113cd04947736d
+
 # Distro
 inventorypartnerdomain=distro.tv 
+
 # Elemental
 elementaltv.io, 88208865, DIRECT, c67ec7a88426a864
 elementaltv.io, 62401427, DIRECT, c67ec7a88426a864
@@ -636,3 +640,4 @@ elementaltv.io, 21498416, DIRECT, c67ec7a88426a864
 elementaltv.io, 24667614, DIRECT, c67ec7a88426a864
 inventorypartnerdomain=elementaltv.io
 appnexus.com, 11744, DIRECT, f5ab79cb980f11d1
+inventorypartnerdomain=littledotstudios.com
