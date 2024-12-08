@@ -604,8 +604,10 @@ pubmatic.com, 163009, DIRECT, 5d62403b186f2ace
 smartadserver.com, 4452, DIRECT, 060d053dcf45cbf3
 # MonetizeGo
 conversantmedia.com, 100807, RESELLER, 03113cd04947736d
+
 # Distro
 inventorypartnerdomain=distro.tv 
+
 # Elemental
 elementaltv.io, 88208865, DIRECT, c67ec7a88426a864
 elementaltv.io, 62401427, DIRECT, c67ec7a88426a864
@@ -636,3 +638,14 @@ elementaltv.io, 21498416, DIRECT, c67ec7a88426a864
 elementaltv.io, 24667614, DIRECT, c67ec7a88426a864
 inventorypartnerdomain=elementaltv.io
 appnexus.com, 11744, DIRECT, f5ab79cb980f11d1
+#LDS
+inventorypartnerdomain=littledotstudios.com
+#Altavara
+altavara.co, 773907, DIRECT
+video.unrulymedia.com, 284522492, RESELLER
+supply.colossusssp.com, 816, DIRECT, 6c5b49d96ec1b458
+xandr.com, 10490, RESELLER
+yieldmo.com, 3081538394287710485, RESELLER, #ortbctv
+lnb.ortb.net, 567882, RESELLER
+darkmattertv.com, 1322, RESELLER
+inventorypartnerdomain=altavara.co
