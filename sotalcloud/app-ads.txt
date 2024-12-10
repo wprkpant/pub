@@ -657,3 +657,5 @@ smartadserver.com, 4454, RESELLER, 060d053dcf45cbf3
 freewheel.tv, 1600321, RESELLER
 xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 lijit.com, 515843, RESELLER, fafdf38b16bf6b2b
+#AWG
+google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
