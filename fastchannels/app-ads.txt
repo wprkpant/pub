@@ -649,3 +649,11 @@ yieldmo.com, 3081538394287710485, RESELLER, #ortbctv
 lnb.ortb.net, 567882, RESELLER
 darkmattertv.com, 1322, RESELLER
 inventorypartnerdomain=altavara.co
+#Metaxsoft
+metaxsoft.com, 90609223, DIRECT
+pubmatic.com,161212, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 502298505, RESELLER
+smartadserver.com, 4454, RESELLER, 060d053dcf45cbf3
+freewheel.tv, 1600321, RESELLER
+xandr.com, 13238, RESELLER, f5ab79cb980f11d1
+lijit.com, 515843, RESELLER, fafdf38b16bf6b2b
