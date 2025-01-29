@@ -1,5 +1,4 @@
-# ATG-IYXFO5MRS2MC1DCQ
-# Version 0.3.16
+# Version 0.3.17
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=aniview.com
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
@@ -659,3 +658,34 @@ xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 lijit.com, 515843, RESELLER, fafdf38b16bf6b2b
 #AWG
 google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
+
+# ATG-IYXFO5MRS2MC1DCQ
+
+lijit.com, 520445, DIRECT, fafdf38b16bf6b2b 
+pubmatic.com, 161899, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+conversantmedia.com, 100714, RESELLER, 03113cd04947736d  
+pubmatic.com, 164079, RESELLER, 5d62403b186f2ace  
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+dauup.com, 34142, RESELLER
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+motorik.io, 100463, RESELLER
+
+#Rhebus
+rhebus.works,5763107270,DIRECT
+video.unrulymedia.com, 2613193077, DIRECT
+smartadserver.com, 4344, DIRECT , 060d053dcf45cbf3
+smartadserver.com, 4210, DIRECT, 060d053dcf45cbf3
+google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
+AWG.LA, 23213440694, DIRECT
+lijit.com, 520445, DIRECT, fafdf38b16bf6b2b #SOVRN
+pubmatic.com, 161899, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100714, RESELLER, 03113cd04947736d
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 164079, RESELLER, 5d62403b186f2ace
+
+
