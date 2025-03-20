@@ -1,4 +1,4 @@
-# Version 0.3.18
+# Version 0.3.19
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=aniview.com
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
@@ -740,6 +740,7 @@ freewheel.tv,1522338,RESELLER
 lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
 digimedllc.com, T3CuGr618nI3eQCxtp, RESELLER
 Media.net, 8CUT87EOU, DIRECT
+Prismriotads.com, 67099, RESELLER, 21e44d1aeccd12ef
 
 # C360
 C360.com, 2155, DIRECT
@@ -777,3 +778,8 @@ audienceconnect.io, 551, RESELLER
 freewheel.tv, 1596466, RESELLER
 boldcollective.co, 498070, RESELLER
 inventorypartnerdomain=boldcollective.co
+
+# Daily Motion
+telaria.com, a21zu-22lto, RESELLER, 1a4e959a1b50034a
+tremorhub.com, a21zu-22lto, RESELLER, 1a4e959a1b50034a
+nsightvideo.com, a21zu-22lto, RESELLER
