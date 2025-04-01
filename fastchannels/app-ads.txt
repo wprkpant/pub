@@ -1,4 +1,4 @@
-# Version 0.3.19
+# Version 0.3.20
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=aniview.com
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
@@ -783,3 +783,17 @@ inventorypartnerdomain=boldcollective.co
 telaria.com, a21zu-22lto, RESELLER, 1a4e959a1b50034a
 tremorhub.com, a21zu-22lto, RESELLER, 1a4e959a1b50034a
 nsightvideo.com, a21zu-22lto, RESELLER
+
+# XAPads
+xapads.com, 160884, direct
+freewheel.tv, 1581157, direct
+pubmatic.com, 166254, direct, 5d62403b186f2ace
+appnexus.com, 16916, direct, f5ab79cb980f11d1
+conversantmedia.com, 100718, direct, 03113cd04947736d
+inmobi.com, c0900989d3194edc94c4f1ae1cd4b9e8, direct, 83e75a7ae333ca9d
+video.unrulymedia.com, 906189653, direct
+pubmatic.com, 166254, RESELLER, 5d62403b186f2ace
+appnexus.com, 16916, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100718, RESELLER, 03113cd04947736d
+inmobi.com, c0900989d3194edc94c4f1ae1cd4b9e8, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 906189653, RESELLER
