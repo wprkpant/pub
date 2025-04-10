@@ -1,4 +1,4 @@
-# Version 0.3.20
+# Version 0.3.21
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=aniview.com
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
@@ -797,3 +797,23 @@ appnexus.com, 16916, RESELLER, f5ab79cb980f11d1
 conversantmedia.com, 100718, RESELLER, 03113cd04947736d
 inmobi.com, c0900989d3194edc94c4f1ae1cd4b9e8, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 906189653, RESELLER
+
+#TheGermaneMedia
+MANAGERDOMAIN=thegermanemedia.com
+INVENTORYPARTNERDOMAIN=thegermanemedia.com
+thegermanemedia.com, 193, DIRECT
+thegermanemedia.com, 479, DIRECT
+google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
+smartadserver.com, 4938, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 164928, RESELLER, 5d62403b186f2ace
+freewheel.tv, 1607251, RESELLER
+freewheel.tv, 1607259, RESELLER
+appnexus.com, 16696, DIRECT, f5ab79cb980f11d1
+xandr.com, 16696, DIRECT, f5ab79cb980f11d1
+lijit.com, 509119, DIRECT, fafdf38b16bf6b2b
+supply.colossusssp.com, 679, DIRECT, 6c5b49d96ec1b458
+improvedigital.com, 2446, RESELLER
+aps.amazon.com,c581afbf-1c21-414a-bc75-cca4502836b4,DIRECT
+lemmatechnologies.com, 1743, DIRECT, 7829010c5bebd1fb
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162710, RESELLER, 5d62403b186f2ace
