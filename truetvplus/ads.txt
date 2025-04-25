@@ -6,7 +6,6 @@ MANAGERDOMAIN=fastchannels.tv
 #FASTchannels
 inventorypartnerdomain=fastchannels.tv
 fastchannels.tv, 45151, DIRECT
-fastchannels.tv, 45151, RESELLER
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
 
 #PUBMATIC
