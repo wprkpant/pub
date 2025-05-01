@@ -1,4 +1,4 @@
-# Version 0.4.29
+# Version 25.05.01
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=aniview.com
@@ -66,7 +66,6 @@ freewheel.tv, sg1217511-523319, RESELLER
 #montetizego
 omgstudios.com, 201020241, DIRECT, f08c47fec0942fa0
 inventorypartnerdomain=omgstudios.com
-bigedition.com, 20251020, DIRECT, 3c91030819ca42
 inventorypartnerdomain=bigedition.com
 
 #Rhebus
@@ -95,7 +94,6 @@ freewheel.tv, 534991-r-523319, RESELLER
 lkqd.net, 1100053848, RESELLER, 59c49fa9598a0117
 connatix.com, 1904974167850082, RESELLER, 2af98acdee0e81ed
 vuukle.com, 6e87dead-7381-4c4a-9c2a-03558c1cb17e, DIRECT, c8034d3da4547abf
-​​showheroes.com, 7152, DIRECT
 loopme.com,15145,RESELLER,6c8d5f95897a5a3b 
 xandr.com, 13799, RESELLER
 pubmatic.com, 166535, DIRECT, 5d62403b186f2ace
@@ -187,8 +185,8 @@ inventorypartnerdomain=boldcollective.co
 
 #tviq
 inventorypartnerdomain=tviq.io
-TVIQ, 2329, DIRECT
-TVIQ, 2329, RESELLER
+tviq.io, 1733, DIRECT
+tviq.io, 1733, RESELLER
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 connatix.com, 1652500284288994, RESELLER, 2af98acdee0e81ed
 freewheel.tv, 1581801, RESELLER
@@ -197,7 +195,7 @@ lijit.com, 347623, RESELLER, fafdf38b16bf6b2b
 media.net, 8CU9U47UY, RESELLER
 orka.tv, 83098789, RESELLER, 41c84499561af3f3
 pubmatic.com, 159527, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161121, reseller, 5d62403b186f2ace
+pubmatic.com, 161121, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162945, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
@@ -207,13 +205,13 @@ tremorhub.com, 3zcla-3bhdx, RESELLER, 1a4e959a1b50034a
 undertone.com, 3648, RESELLER
 video.unrulymedia.com, 3128065130, RESELLER
 video.unrulymedia.com, 5161057819193970664, RESELLER
-Xandr.com, 13416, RESELLER
+xandr.com, 13416, RESELLER
 
 #altavara
 altavara.co, 773907, DIRECT
 inventorypartnerdomain=altavara.co
-TVIQ, 2335, DIRECT
-TVIQ, 2335, RESELLER
+tviq.io, 2335, DIRECT
+tviq.io, 2335, RESELLER
 inventorypartnerdomain=tviq.io
 embi-media.com, 0391, DIRECT
 onetag.com, 736328ea479779c, DIRECT
@@ -358,7 +356,8 @@ pubmatic.com, 162238, RESELLER, 5d62403b186f2ace
 bidscube.com, 3001385, DIRECT, 6ecc87a1e0269657
 improvedigital.com, 2480, RESELLER
 onetag.com, 758e0f1a8f05074, RESELLER
-conversantmedia.com, 100334, DIRECT/RESELLER, 03113cd04947736d
+conversantmedia.com, 100334, DIRECT, 03113cd04947736d
+conversantmedia.com, 100334, RESELLER, 03113cd04947736d
 bidinfluence.com, 502096, DIRECT
 improvedigital.com, 2418, RESELLER
 decenterads.com, 301774, RESELLER
@@ -374,7 +373,8 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 bidscube.com, 3001385, DIRECT, 6ecc87a1e0269657
 improvedigital.com, 2480, RESELLER
 onetag.com, 758e0f1a8f05074, RESELLER
-conversantmedia.com, 100334, DIRECT/RESELLER, 03113cd04947736d
+conversantmedia.com, 100334, DIRECT, 03113cd04947736d
+conversantmedia.com, 100334, RESELLER, 03113cd04947736d
 bidinfluence.com, 502096, DIRECT
 improvedigital.com, 2418, RESELLER
 decenterads.com, 301774, RESELLER
@@ -409,7 +409,7 @@ freewheel.tv, sg1246124, RESELLER
 freewheel.tv, 533597-r-523319, RESELLER
 loopme.com,12890,RESELLER,6c8d5f95897a5a3b
 video.unrulymedia.com, 661438163, RESELLER
-smartadserver.com, 4443, RESELLER 060d053dcf45cbf3
+smartadserver.com, 4443, RESELLER, 060d053dcf45cbf3
 sharethrough.com, ENJvHawS, DIRECT, d53b998a7bd4ecd2
 contextweb.com,562869,RESELLER,89ff185a4c4e857c
 yieldmo.com, 3608923449470165093, RESELLER
@@ -661,6 +661,7 @@ google.com, pub-3565385483761681, DIRECT, f08c47fec0942fa0
 google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0
 google.com, pub-6694481294649483, DIRECT, f08c47fec0942fa0
 google.com, pub-6694481294649483, DIRECT, f08c47fec0942fa0
+google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
 Improvedigital.com, 1699, RESELLER
 improvedigital.com, 1931, DIRECT
 indexexchange.com, 182257, RESELLER
