@@ -1,4 +1,4 @@
-# Version 25.05.01
+# Version 25.05.06
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=aniview.com
@@ -2386,3 +2386,21 @@ rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER
+
+#APMC
+safex.tv, 5050, DIRECT
+filmzie.com, 9894126, DIRECT
+xandr.com, 13363, RESELLER, f5ab79cb980f11d1
+telaria.com, tz24j-r26au, RESELLER, 1a4e959a1b50034a
+telaria.com, tz24j-lgtzn, RESELLER, 1a4e959a1b50034a
+samba.tv, 230678, RESELLER
+tremorhub.com, tz24j-r26au, RESELLER, 1a4e959a1b50034a
+tremorhub.com, tz24j-lgtzn, RESELLER, 1a4e959a1b50034a
+kargo.com, 8767, RESELLER
+lijit.com, 488676, RESELLER, fafdf38b16bf6b2b #CTV
+smartadserver.com, 5251, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 5251, RESELLER, d53b998a7bd4ecd2
+beachfront.com, 13460, RESELLER, e2541279e8e2ca4d
+video.unrulymedia.com, 749958898, RESELLER
+sharethrough.com, xqei8jM6, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, rQQHK6F4, RESELLER, d53b998a7bd4ecd2
