@@ -1,7 +1,7 @@
-# Version 25.05.06
+# Version 25.05.12
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
-MANAGERDOMAIN=aniview.com
+MANAGERDOMAIN=fastchannels.tv
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
 
 #PUBMATIC
@@ -92,6 +92,7 @@ inventorypartnerdomain=admanmedia.com
 admanmedia.com, 2030, DIRECT
 
 #GOGOCTV
+inventorypartnerdomain=gogoctv.com
 gogoctv.com, 90731296, DIRECT, 8e9cecc3d1ed840f
 gogoctv.com, 90931174, DIRECT, 8e9cecc3d1ed840f
 gogoctv.com, 15102626, DIRECT, 8e9cecc3d1ed840f
