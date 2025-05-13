@@ -82,7 +82,7 @@ freewheel.tv, 531689-d-523319, RESELLER
 freewheel.tv, sg1217511, RESELLER
 freewheel.tv, sg1217511-523319, RESELLER
 
-#montetize go
+#monetize go
 omgstudios.com, 201020241, DIRECT, f08c47fec0942fa0
 bigedition.com, 20251020, DIRECT, 3c91030819ca42
 inventorypartnerdomain=omgstudios.com
