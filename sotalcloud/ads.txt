@@ -1,4 +1,4 @@
-# Version 25.05.12
+# Version 25.05.14
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -74,6 +74,7 @@ consumable.com, 2001611, RESELLER, aefcd3d2f45b5070
 appnexus.com, 16595, RESELLER
 supply.colossusssp.com, 865, RESELLER
 sunmedia.tv, 56565f27-b68e-42ee-8749-07356a865a1a, RESELLER
+adte.com, 1156, RESELLER
 
 #C360
 C360.com, 2155, DIRECT
