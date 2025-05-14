@@ -1,4 +1,4 @@
-# Version 25.05.01
+# Version 25.05.14
 
 OWNERDOMAIN=truetvplus.com
 MANAGERDOMAIN=fastchannels.tv
@@ -13,6 +13,9 @@ pubmatic.com, 163000, DIRECT, 5d62403b186f2ace
 
 #BEACHFRONT
 Beachfront.com, 15084, DIRECT, e2541279e8e2ca4d
+
+#UNRULY
+video.unrulymedia.com, 3178083972516584766, DIRECT
 
 #Spacemob
 inventorypartnerdomain=space-mob.com
@@ -59,6 +62,23 @@ google.com, pub-9130183266015225, DIRECT, f08c47fec0942fa0
 #theMediaSense
 INVENTORYPARTNERDOMAIN=themediasense.com
 INVENTORYPARTNERDOMAIN=adte.com
+themediasense.com, 1156, RESELLER
+pubmatic.com, 161599, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162849, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166427, RESELLER, 5d62403b186f2ace
+freewheel.tv, 1604050, RESELLER
+freewheel.tv, 1576545, RESELLER
+freewheel.tv, 1608963, RESELLER
+freewheel.tv, 1608962, RESELLER
+loopme.com, 13943, RESELLER
+sharethrough.com, HIdAAmRP, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 9uWGyYeP, RESELLER, d53b998a7bd4ecd2
+zetaglobal.net, 915, RESELLER
+consumable.com, 2001611, RESELLER, aefcd3d2f45b5070
+appnexus.com, 16595, RESELLER
+supply.colossusssp.com, 865, RESELLER
+sunmedia.tv, 56565f27-b68e-42ee-8749-07356a865a1a, RESELLER
+adte.com, 1156, RESELLER
 
 #C360
 C360.com, 2155, DIRECT
@@ -67,8 +87,9 @@ freewheel.tv, 531689-d-523319, RESELLER
 freewheel.tv, sg1217511, RESELLER
 freewheel.tv, sg1217511-523319, RESELLER
 
-#montetizego
+#monetize go
 omgstudios.com, 201020241, DIRECT, f08c47fec0942fa0
+bigedition.com, 20251020, DIRECT, 3c91030819ca42
 inventorypartnerdomain=omgstudios.com
 inventorypartnerdomain=bigedition.com
 
@@ -80,6 +101,7 @@ inventorypartnerdomain=admanmedia.com
 admanmedia.com, 2030, DIRECT
 
 #GOGOCTV
+inventorypartnerdomain=gogoctv.com
 gogoctv.com, 90731296, DIRECT, 8e9cecc3d1ed840f
 gogoctv.com, 90931174, DIRECT, 8e9cecc3d1ed840f
 gogoctv.com, 15102626, DIRECT, 8e9cecc3d1ed840f
@@ -413,7 +435,6 @@ freewheel.tv, sg1246124, RESELLER
 freewheel.tv, 533597-r-523319, RESELLER
 loopme.com,12890,RESELLER,6c8d5f95897a5a3b
 video.unrulymedia.com, 661438163, RESELLER
-smartadserver.com, 4443, RESELLER, 060d053dcf45cbf3
 sharethrough.com, ENJvHawS, DIRECT, d53b998a7bd4ecd2
 contextweb.com,562869,RESELLER,89ff185a4c4e857c
 yieldmo.com, 3608923449470165093, RESELLER
@@ -913,7 +934,6 @@ boldcollective.co, 50861, DIRECT
 boldcollective.co, 754387, DIRECT
 Contextweb.com,563489,RESELLER,89ff185a4c4e857c
 conversantmedia.com, 100783, RESELLER, 03113cd04947736d
-529739, RESELLER, fafdf38b16bf6b2b #SOVRN
 pubmatic.com, 161899, RESELLER, 5d62403b186f2ace
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
@@ -2376,3 +2396,21 @@ rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER
+
+#APMC
+safex.tv, 5050, DIRECT
+filmzie.com, 9894126, DIRECT
+xandr.com, 13363, RESELLER, f5ab79cb980f11d1
+telaria.com, tz24j-r26au, RESELLER, 1a4e959a1b50034a
+telaria.com, tz24j-lgtzn, RESELLER, 1a4e959a1b50034a
+samba.tv, 230678, RESELLER
+tremorhub.com, tz24j-r26au, RESELLER, 1a4e959a1b50034a
+tremorhub.com, tz24j-lgtzn, RESELLER, 1a4e959a1b50034a
+kargo.com, 8767, RESELLER
+lijit.com, 488676, RESELLER, fafdf38b16bf6b2b #CTV
+smartadserver.com, 5251, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 5251, RESELLER, d53b998a7bd4ecd2
+beachfront.com, 13460, RESELLER, e2541279e8e2ca4d
+video.unrulymedia.com, 749958898, RESELLER
+sharethrough.com, xqei8jM6, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, rQQHK6F4, RESELLER, d53b998a7bd4ecd2
