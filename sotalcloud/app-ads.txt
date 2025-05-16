@@ -1,4 +1,4 @@
-# Version 25.05.14
+# Version 25.05.16
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -440,38 +440,21 @@ sabio.us, 100066, DIRECT, 96ed93aaa9795702
 
 #EMBI
 embi-media.com, 0215, DIRECT
-#OCM
-appnexus.com, 14416, reseller
-adform.com, 3215, reseller
-smartadserver.com, 3172, reseller, 060d053dcf45cbf3
-Sharethrough.com, voRCbaYL, reseller
-appnexus.com, 14808, reseller
-adform.com, 2904, reseller
-video.unrulymedia.com, 6111915185540403805, reseller
-rubiconproject.com, 20086, reseller, 0bfd66d529a55807
-adform.com, 2904, reseller
-criteo.com, B-060738, direct, 9fac4a4a87c2a44f
-themediagrid.com, RVQDTI, direct, 35d5010d7789b49d
-contextweb.com, 563490, reseller, 89ff185a4c4e857c #ctv
-freewheel.tv, 1512258, reseller  #ctv
-freewheel.tv, 1605196, reseller  #ctv
-triplelift.com, 13654, reseller  #ctv
-#Onetag
 onetag.com, 736328ea479779c, DIRECT
-advertising.com, 28246, RESELLER
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
-google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
-freewheel.tv, 20393, RESELLER
-freewheel.tv, 24377, RESELLER
-aol.com, 58905, RESELLER, e1a5b5b6e3255540
-#Xandr
 appnexus.com, 10515, DIRECT, f5ab79cb980f11d1
-#IntegralStream
-integralstream.com, 511, DIRECT
-#Smoot
-smoot.ai, 100026, RESELLER
-smartadserver.com, 4721, RESELLER
-pubmatic.com, 163799, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2843, RESELLER, 060d053dcf45cbf3
+openx.com, 540861995, direct, 6a698e2ec38604c6
+google.com , pub-9130183266015225, DISTRIBUIDOR, f08c47fec0942fa0
+AWG.LA , 22562061343, DIRECT
+admixer.net, 2220c4ef-d6d6-4427-9d43-23e93e0c24e6, DIRECT
+video.unrulymedia.com, 827123801, RESELLER
+lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
+adform.com, 1762, RESELLER
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+triplelift.com, 6544, DIRECT, 6c33edb13117fd86
+Bidfuse.com, 520667337, RESELLER
+lijit.com, 533787, DIRECT, fafdf38b16bf6b2b 
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 
 #orka
 orka.tv, 37734464, DIRECT, 41c84499561af3f3
