@@ -1,8 +1,8 @@
 {
     "contact_email": "info@fastchannels.tv",
     "contact_address": "SotalCloud, Inc dba FAST Channels TV, 120 Eglinton Ave East, Suite 800, Toronto, ON, Canada  M4P 1E2",
-    "Updated": "Oct24, 2024",
-    "version": 1.7,
+    "Updated": "May20, 2025",
+    "version": 1.8,
     "identifiers": [
         {
             "name": "DUNS",
@@ -43,7 +43,7 @@
         {
             "seller_id": "45010",
             "name": "Xiaomi",
-            "domain": "mi.com",
+            "domain": "global.e.mi.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -342,7 +342,7 @@
         },
         {
             "seller_id": "45127",
-            "name": "VTVeee",
+            "name": "vtveee",
             "domain": "vtveee.com",
             "seller_type": "PUBLISHER"
         },
@@ -512,6 +512,12 @@
             "seller_id": "45167",
             "name": "imperialtv",
             "domain": "imperialtv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45168",
+            "name": "lookhu",
+            "domain": "lookhu.tv",
             "seller_type": "PUBLISHER"
         }
     ]
