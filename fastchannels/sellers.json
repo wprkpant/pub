@@ -519,6 +519,18 @@
             "name": "lookhu",
             "domain": "lookhu.tv",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45169",
+            "name": "airtelxstream",
+            "domain": "airtelxstream.in",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45170",
+            "name": "freelivesports",
+            "domain": "freelivesports.tv",
+            "seller_type": "PUBLISHER"
         }
     ]
 }
