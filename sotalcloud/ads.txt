@@ -2958,3 +2958,30 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER
 smartadserver.com, 4012, RESELLER
 video.unrulymedia.com, 266978658, RESELLER
+
+#Adnimation
+# Sonobi CTV
+sonobi.com, 130b79b537, RESELLER, d1a215d9eb5aee9e
+# Pubmatic CTV
+pubmatic.com, 166619, RESELLER, 5d62403b186f2ace
+# Xandr
+appnexus.com, 10815, DIRECT, f5ab79cb980f11d1
+# Smart CTV
+smartadserver.com, 4318, RESELLER, 060d053dcf45cbf3
+# SOVRN CTV
+lijit.com, 308018, RESELLER, fafdf38b16bf6b2b
+# SOVRN
+pubmatic.com, 161899, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100714, RESELLER, 03113cd04947736d
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 164079, RESELLER, 5d62403b186f2ace
+# Nexxen
+video.unrulymedia.com, 2823123989, RESELLER, a670c89d4a324e47
+# MediaNet CTV
+media.net, 8CUY531N7, DIRECT
+pubmatic.com, 162134, RESELLER, 5d62403b186f2ace
+sonobi.com, 83729e979b, RESELLER
+contextweb.com, 563183, RESELLER, 89ff185a4c4e857c
