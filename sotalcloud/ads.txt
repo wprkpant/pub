@@ -925,23 +925,6 @@ pubnative.net, 1007449, RESELLER, d641df8625486a7b
 sharethrough.com, MAC8ESmG, RESELLER
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 
-#bidinfluence
-bidscube.com, 3001385, DIRECT, 6ecc87a1e0269657
-improvedigital.com, 2480, RESELLER
-onetag.com, 758e0f1a8f05074, RESELLER
-conversantmedia.com, 100334, DIRECT, 03113cd04947736d
-conversantmedia.com, 100334, RESELLER, 03113cd04947736d
-bidinfluence.com, 502096, DIRECT
-improvedigital.com, 2418, RESELLER
-decenterads.com, 301774, RESELLER
-x.adprime.com, AJxF6R19a9M6CaTvK, RESELLER
-video.unrulymedia.com, 516878781, RESELLER
-pubmatic.com, 159277, RESELLER
-openx.com, 543878511, RESELLER, 6a698e2ec38604c6
-pubnative.net, 1007449, RESELLER, d641df8625486a7b
-sharethrough.com, MAC8ESmG, RESELLER
-smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
-
 #Luna
 lunamedia.io, 279e21vv468d4r2mu18428c3ac48ca75, DIRECT, 524ecb396915caaf
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
@@ -2985,3 +2968,20 @@ media.net, 8CUY531N7, DIRECT
 pubmatic.com, 162134, RESELLER, 5d62403b186f2ace
 sonobi.com, 83729e979b, RESELLER
 contextweb.com, 563183, RESELLER, 89ff185a4c4e857c
+
+#bidinfluence
+bidinfluence.com, 502096, DIRECT
+video.unrulymedia.com, 516878781, RESELLER
+pubmatic.com, 159277, RESELLER
+openx.com, 543878511, RESELLER, 6a698e2ec38604c6
+pubnative.net, 1007449, RESELLER, d641df8625486a7b
+sharethrough.com, MAC8ESmG, RESELLER
+smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
+improvedigital.com, 2418, RESELLER
+conversantmedia.com, 100960, RESELLER, 03113cd04947736d
+eskimi.com, 2020000857, RESELLER
+x.adprime.com, AJxF6R19a9M6CaTvK, RESELLER
+improvedigital.com, 2480, RESELLER
+onetag.com, 758e0f1a8f05074, RESELLER
+conversantmedia.com, 100334, DIRECT/RESELLER, 03113cd04947736d 
+bidscube.com, 3001385, DIRECT, 6ecc87a1e0269657
