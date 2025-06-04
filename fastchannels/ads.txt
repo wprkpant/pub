@@ -90,7 +90,7 @@ inventorypartnerdomain=omgstudios.com
 inventorypartnerdomain=bigedition.com
 
 #Rhebus
-inventorypartnerdomain=fancyamovie.com
+inventorypartnerdomain=rhebus.works
 
 #adman illumin
 inventorypartnerdomain=admanmedia.com
