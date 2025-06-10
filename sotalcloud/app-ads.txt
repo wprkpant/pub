@@ -2968,6 +2968,68 @@ media.net, 8CUY531N7, DIRECT
 pubmatic.com, 162134, RESELLER, 5d62403b186f2ace
 sonobi.com, 83729e979b, RESELLER
 contextweb.com, 563183, RESELLER, 89ff185a4c4e857c
+# Connatix
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+video.unrulymedia.com, 687806135, RESELLER
+connatix.com, 2025748321390583, DIRECT, 2af98acdee0e81ed
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+risecodes.com, 60053eeffc482800014c29be, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+xandr.com, 14082, RESELLER
+video.unrulymedia.com, 335119963, RESELLER
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+media.net, 8CUP5F2LD, RESELLER
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+pmbmonetize.com, 22597229605, RESELLER
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+opamarketplace.com, 22597229605, RESELLER
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+adipolosolutions.com, 22597229605, RESELLER
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+adipolo.com, 22597229605, RESELLER
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+smartadline.com, 22703897216, RESELLER
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+appnexus.com, 16912, RESELLER, f5ab79cb980f11d1
+gannett.com, 22597229605, RESELLER
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+triplelift.com, 12200, RESELLER, 6c33edb13117fd86
+smaato.com, 1100055555, RESELLER, 07bcf65f187117b4
+ottadvisors.com, 23208720669, RESELLER
+video.unrulymedia.com, 776418614052335749, RESELLER
+smartadserver.com, 3630, RESELLER
+loopme.com, 11186, RESELLER, 6c8d5f95897a5a3b
+inmobi.com, 64d831e7ed4840ac8ea2283745f07d75, RESELLER, 83e75a7ae333ca9d
+yieldmo.com, 3286586829842621292, RESELLER
+sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
+copper6.com, 764227, RESELLER
+aps.amazon.com, ec4e8edf-c46b-44a1-bcab-17b3a4420b9a, RESELLER
+appnexus.com, 9733, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
+adwmg.com, 100820, RESELLER, c9688a22012618e7
+google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+adform.com, 3124, RESELLER
+33across.com, 0015a00002y7TWTAA2, RESELLER, bbea06d9c4d2853c
+the-ozone-project.com, OZONEJWP0001, RESELLER
+appnexus.com, 9979, RESELLER
+adform.com, 2657, RESELLER, 9f5210a2f0999e32
+openx.com, 540731760, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
+indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
+tvp.tv, BC15, RESELLER, 1125b6434104a723
+pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
+emxdgt.com, 1781, RESELLER, 1e1d41537f7cad7f
+gumgum.com, 12991, RESELLER, ffdef49475d318a9
+insticator.com, f2ff22ea-9f29-4053-974c-2cda89954d3f, RESELLER, b3511ffcafb23a32
+didna.io, 494n1p17081a, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+bidgx.com, 62885, RESELLER
+rubiconproject.com, 27034, RESELLER, 0bfd66d529a55807
 
 #bidinfluence
 bidinfluence.com, 502096, DIRECT
