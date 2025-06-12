@@ -12,6 +12,7 @@ Beachfront.com, 15084, DIRECT, e2541279e8e2ca4d
 
 #UNRULY
 video.unrulymedia.com, 3178083972516584766, DIRECT
+video.unrulymedia.com, 3178083972516584766, RESELLER
 
 #Spacemob
 inventorypartnerdomain=space-mob.com
