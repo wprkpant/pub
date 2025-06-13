@@ -1,4 +1,4 @@
-# Version 26.05.25
+# Version 12.06.25
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -176,7 +176,7 @@ elementaltv.io, 48992805, DIRECT, c67ec7a88426a864
 elementaltv.io, 30845062, DIRECT, c67ec7a88426a864
 elementaltv.io, 29047783, DIRECT, c67ec7a88426a864
 
-#darkmatter
+#darkmatter tricoast
 darkmattertv.com, 55571, DIRECT
 inventorypartnerdomain=darkmattertv.com
 darkmattertv.com, 374, DIRECT
@@ -205,6 +205,7 @@ audienceconnect.io, 551, RESELLER
 freewheel.tv, 1596466, RESELLER
 boldcollective.co, 498070, RESELLER
 inventorypartnerdomain=boldcollective.co
+lkqd.net, 1100059014, DIRECT, 59c49fa9598a0117
 
 #tviq
 TVIQ.io, 1733, DIRECT
