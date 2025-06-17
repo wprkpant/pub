@@ -1,8 +1,8 @@
 {
     "contact_email": "info@fastchannels.tv",
     "contact_address": "SotalCloud, Inc dba FAST Channels TV, 120 Eglinton Ave East, Suite 800, Toronto, ON, Canada  M4P 1E2",
-    "Updated": "May20, 2025",
-    "version": 1.8,
+    "Updated": "June17, 2025",
+    "version": 1.9,
     "identifiers": [
         {
             "name": "DUNS",
@@ -530,6 +530,12 @@
             "seller_id": "45170",
             "name": "freelivesports",
             "domain": "freelivesports.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45171",
+            "name": "whaletv",
+            "domain": "whaletv.com",
             "seller_type": "PUBLISHER"
         }
     ]
