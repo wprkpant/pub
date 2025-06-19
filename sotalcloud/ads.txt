@@ -1,4 +1,4 @@
-# Version 12.06.25
+# Version 19.06.25
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -1043,6 +1043,7 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4111, RESELLER
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
+inmobi.com, 155796dfff86494e9b375346a748e8eb, RESELLER, 83e75a7ae333ca9d
 
 #take1ads
 take1ads.com, 790, DIRECT
