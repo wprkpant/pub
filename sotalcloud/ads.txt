@@ -1,4 +1,4 @@
-# Version 19.06.25
+# Version 23.06.25
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -942,6 +942,7 @@ bematterfull.com, 419532587, DIRECT
 zetaglobal.net, 681, RESELLER
 conversantmedia.com, 100322, DIRECT, 03113cd04947736d
 tropicsgames.com, d5d5bbbb-4e4f-45a5-bcc7-9dd590fcccae, DIRECT
+conversantmedia.com, 100322, DIRECT, 03113cd04947736d
 
 #Siprocal
 siprocalads.com, KBCQEE1JP11SP6D770PSGGUC0O, DIRECT
