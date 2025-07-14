@@ -1,4 +1,4 @@
-# Version 23.06.25
+# Version 14.07.25
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -926,6 +926,8 @@ openx.com, 543878511, RESELLER, 6a698e2ec38604c6
 pubnative.net, 1007449, RESELLER, d641df8625486a7b
 sharethrough.com, MAC8ESmG, RESELLER
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
+Media.net, 8CUL9J1PS, DIRECT
+inmobi.com, ccbbac8e47044746baa5d273e6bd2a03, RESELLER, 83e75a7ae333ca9d
 
 #Luna
 lunamedia.io, 279e21vv468d4r2mu18428c3ac48ca75, DIRECT, 524ecb396915caaf
@@ -3051,6 +3053,8 @@ improvedigital.com, 2480, RESELLER
 onetag.com, 758e0f1a8f05074, RESELLER
 conversantmedia.com, 100334, DIRECT/RESELLER, 03113cd04947736d 
 bidscube.com, 3001385, DIRECT, 6ecc87a1e0269657
+Media.net, 8CUL9J1PS, DIRECT
+inmobi.com, ccbbac8e47044746baa5d273e6bd2a03, RESELLER, 83e75a7ae333ca9d
 
 #navio
 inventorypartnerdomain=navionetworks.com
