@@ -537,6 +537,12 @@
             "name": "whaletv",
             "domain": "whaletv.com",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45172",
+            "name": "hoy",
+            "domain": "hoy.tv",
+            "seller_type": "PUBLISHER"
         }
     ]
 }
