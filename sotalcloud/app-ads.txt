@@ -1,4 +1,4 @@
-# Version 28.09.25
+# Version 09.10.25
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -3295,3 +3295,37 @@ pubmatic.com, 161899, RESELLER, 5d62403b186f2ace
 rtbdemand.com, 22997353811, DIRECT
 openx.com, 539848768, RESELLER, 6a698e2ec38604c6 
 rubiconproject.com, 26884, RESELLER, 0bfd66d529a55807
+
+#adbite
+adbite.com, 226852, Direct
+google.com, pub-3948711718759692, DIRECT, f08c47fec0942fa0
+safex.tv, 5063, DIRECT
+filmzie.com, 5063, DIRECT
+pubmatic.com, 164351, RESELLER, 5d62403b186f2ace
+samba.tv, 230678, RESELLER
+kargo.com, 8767, RESELLER
+lijit.com, 488676, RESELLER, fafdf38b16bf6b2b #CTV
+beachfront.com, 13460, RESELLER, e2541279e8e2ca4d
+xandr.com, 13363, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 749958898, RESELLER
+sharethrough.com, xqei8jM6, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, rQQHK6F4, RESELLER, d53b998a7bd4ecd2
+castify.ai, 1275128, RESELLER
+grouprvn.com, l2i2Ri5G21, RESELLER
+contextweb.com,563544,RESELLER,89ff185a4c4e857c
+freewheel.tv, 1205439, RESELLER
+freewheel.tv, 1205455, RESELLER
+thebrave.io, 1234736, RESELLER, c25b2154543746ac
+auctera.io,164776, Reseller
+inmobi.com, 29b9140cf4f54b08869d586a7a76621d, RESELLER, 83e75a7ae333ca9d
+google.com, pub-9219954761243535, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+google.com, pub-5081196879566290, RESELLER, f08c47fec0942fa0x
+google.com, pub-3328898302928686, RESELLER, f08c47fec0942fa0
+adform.com, 3033, RESELLER, 9f5210a2f0999e32
+biddo.net, bdc-6084, DIRECT
+bidfuse.com,520667337,DIRECT,92bf3d4bb7d08ded 
+lijit.com, 533787, DIRECT, fafdf38b16bf6b2b
+sonobi.com,c623252777,RESELLER,d1a215d9eb5aee9e
+video.unrulymedia.com, 565904054, RESELLER,98c21ef9a666c68b
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
