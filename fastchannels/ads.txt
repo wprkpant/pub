@@ -1,4 +1,4 @@
-# Version 09.10.25
+# Version 21.10.25
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
 MANAGERDOMAIN=fastchannels.tv
@@ -3329,3 +3329,15 @@ lijit.com, 533787, DIRECT, fafdf38b16bf6b2b
 sonobi.com,c623252777,RESELLER,d1a215d9eb5aee9e
 video.unrulymedia.com, 565904054, RESELLER,98c21ef9a666c68b
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+
+#Adipolo
+adipolo.com, fastchannels2025, DIRECT
+adipolosolutions.com, fastchannels2025, DIRECT
+pmbmonetize.com, fastchannels2025, DIRECT
+opamarketplace.com, fastchannels2025, DIRECT
+smartadline.com, fastchannels2025, DIRECT
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #Opa
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #GreeterAPL
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #APL
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #Positive
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
