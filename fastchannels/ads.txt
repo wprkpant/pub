@@ -1,7 +1,7 @@
-# Version 25.10.25
+# Version 25.11.12
 #FASTchannels
 OWNERDOMAIN=fastchannels.tv
-MANAGERDOMAIN=fastchannels.tv
+MANAGERDOMAIN=TVIQ.io
 google.com, pub-6275814287904645, DIRECT, f08c47fec0942fa0
 
 #PUBMATIC
